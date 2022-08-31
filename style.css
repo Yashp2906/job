@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: grey;
+}
+
+.container {
+    background-color: white;
+    width: 650px;
+    height: 480px;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 14px;
+}
+
+header nav {
+    padding: 11px 17px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.text1 {
+    display: inline-block;
+}
+
+.text1 p {
+    margin: 3px 25px;
+}
+
+.text1 input {
+    width: 230px;
+    height: 16px;
+    margin-left: 25px;
+}
+
+.text2 {
+    display: inline-block;
+    margin: 0 74px;
+}
+
+.text2 p {
+    margin: 3px 0px;
+}
+
+.text3 {
+    display: inline-block;
+}
+
+.field {
+    width: 230px;
+    height: 16px;
+
+}
+
+.mail {
+    width: 230px;
+    height: 16px;
+    margin-left: 25px;
+    margin-top: 3px
+}
+
+.text3 p {
+    margin: 3px 25px;
+    margin-top: 16px;
+}
+
+.selector {
+    display: inline-block;
+
+}
+
+#selectt {
+    margin: 4px 74px;
+}
+
+.selector p {
+    margin: 0px 76px;
+}
+
+.address p {
+    margin: 11px 25px;
+}
+
+.addre {
+    width: 612px;
+    height: 66px;
+    width: 612px;
+    height: 66px;
+    margin: 0 24px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.city {
+    display: inline-block;
+    margin: 3px 25px;
+}
+
+.city p {
+    padding: 9px 0px;
+    margin: 0 -1px;
+}
+
+.cit {
+    width: 230px;
+    height: 16px;
+}
+
+.pin {
+    display: inline-block;
+}
+
+.pin p {
+    margin: 8px 49px;
+}
+
+.code {
+    width: 234px;
+    height: 16px;
+    margin: 0 47px;
+}
+
+.start {
+    display: inline-block;
+}
+
+.start p {
+    padding: 8px 25px;
+}
+
+.date {
+    width: 184px;
+    height: 16px;
+    padding: 0 24px;
+    margin: 0 25px;
+}
+
+.upload {
+    display: inline-block;
+}
+
+.upload p {
+    margin: 6px 47px;
+}
+
+.cv {
+    margin: 0px 45px;
+}
+
+footer  {
+    /* width: 651px;
+    height: 90px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: flex-end;
+    align-items: flex-end;
+    margin: -25px -50px;
+    font-size: 20px; */
+    width: 650px;
+height: 92px;
+display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+margin: -30PX -45PX;
+}
+footer p{
+    background-color: #ff3939;
+    border-radius: 6px;
+    width: 82px;
+    height:21px;
+    cursor: pointer;
+    color:white;
+
+}
